@@ -5,6 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"start": "nodemon index.js",
+		"server": "nodemon index.js",
 		"knex": "knex"
 	},
 	"author": "Lambda School",
@@ -17,6 +18,6 @@
 		"sqlite3": "^4.0.6"
 	},
 	"devDependencies": {
-		"nodemon": "^1.18.9"
+		"nodemon": "^1.18.10"
 	}
 }
